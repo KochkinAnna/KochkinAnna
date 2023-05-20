@@ -20,9 +20,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" height="300"/>
 </div>
+
 ---
 
-### :woman_technologist: About Me :
+###  :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UKRAINE. I am proud of my country. I believe in GOD and the Armed Forces of Ukraine.
 
 - :telescope: I am finishing my studies at a cool and top programming school <a href="https://owu.com.ua">OKTEN</a>
