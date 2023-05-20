@@ -3,7 +3,9 @@
 </div>
 <div align="center">
   <div id="badges">
+<a href="https://www.linkedin.com/in/anna-kochkina-63085b274/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
   <a href="https://www.instagram.com/kochkinanna/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -32,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I improve my knowledge, draw, and study the world of cryptocurrency.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@kochkina_ann)@kochkina_ann
+- :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-kochkina-63085b274/)
 
 ---
 
