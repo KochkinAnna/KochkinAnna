@@ -28,7 +28,7 @@
 ###  :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UKRAINE with a Strong Focus on Backend Development |  Nest.js. I am proud of my country. I believe in GOD and the Armed Forces of Ukraine.
 
-- :telescope: I am finishing my studies at a cool and top programming school <a href="https://owu.com.ua">OKTEN</a>
+- :telescope: I am finished my studies at a cool and top programming school <a href="https://owu.com.ua">OKTEN</a>
 
 - :seedling: Exploring Technical Content Writing.
 
